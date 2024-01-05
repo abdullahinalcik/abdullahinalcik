@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abdullah Inalcik</h1>
 <h3 align="center">A passionate frontend developer from Turkey.</h3>
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Vue3**
 
 - 👨‍💻 All of my projects are available at [my githup repository](my githup repository)
 
-- 💬 Ask me about **JavaScript,React,HTML-CSS,**
+- 💬 Ask me about **JavaScript,React,HTML-CSS,Mongoose,Node.js,MongoDB,Express**
 
 - 📫 How to reach me **a.inalcik@gmail.com**
 
